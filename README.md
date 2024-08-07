@@ -1,1 +1,1 @@
-# 1stSQL_Capstone_Project
+# 1_SQL_Project
